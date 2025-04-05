@@ -1,0 +1,10 @@
+matplotlib==3.8.0
+plotly==6.0.1
+pandas==2.1.4
+seaborn==0.12.2
+pyorthoani==0.7.0
+sklearn==1.2.2
+numpy==1.26.4
+Bio==1.84
+watermark==2.5.0
+
