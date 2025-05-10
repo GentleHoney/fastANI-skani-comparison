@@ -1,0 +1,16 @@
+Ref_file	Query_file	ANI	Align_fraction_ref	Align_fraction_query	Ref_name	Query_name
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_0.fasta	100.00	100.00	100.00	origin_8	mutated_8_0
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_1.fasta	99.71	100.00	100.00	origin_8	mutated_8_1
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_10.fasta	93.39	99.44	99.44	origin_8	mutated_8_10
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_11.fasta	89.99	99.44	99.44	origin_8	mutated_8_11
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_12.fasta	85.06	42.15	42.15	origin_8	mutated_8_12
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_13.fasta	81.52	36.92	36.92	origin_8	mutated_8_13
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_14.fasta	80.63	21.25	21.25	origin_8	mutated_8_14
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_2.fasta	99.62	100.00	100.00	origin_8	mutated_8_2
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_3.fasta	99.35	100.00	100.00	origin_8	mutated_8_3
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_4.fasta	98.89	100.00	100.00	origin_8	mutated_8_4
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_5.fasta	98.22	100.00	100.00	origin_8	mutated_8_5
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_6.fasta	97.59	100.00	100.00	origin_8	mutated_8_6
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_7.fasta	96.83	99.44	99.44	origin_8	mutated_8_7
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_8.fasta	96.38	99.44	99.44	origin_8	mutated_8_8
+/home/lorenzo/bucio_de_culo/origin_8.fasta	/home/lorenzo/bucio_de_culo/mutated_8_9.fasta	95.44	99.44	99.44	origin_8	mutated_8_9

@@ -1,0 +1,16 @@
+Ref_file	Query_file	ANI	Align_fraction_ref	Align_fraction_query	Ref_name	Query_name
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_0.fasta	99.84	100.00	100.00	origin_4	mutated_4_0
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_1.fasta	99.88	100.00	100.00	origin_4	mutated_4_1
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_10.fasta	93.33	100.00	100.00	origin_4	mutated_4_10
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_11.fasta	91.66	98.08	98.08	origin_4	mutated_4_11
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_12.fasta	87.63	53.97	53.97	origin_4	mutated_4_12
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_13.fasta	81.63	35.58	35.58	origin_4	mutated_4_13
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_14.fasta	79.58	15.54	15.54	origin_4	mutated_4_14
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_2.fasta	99.59	100.00	100.00	origin_4	mutated_4_2
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_3.fasta	99.14	100.00	100.00	origin_4	mutated_4_3
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_4.fasta	98.77	100.00	100.00	origin_4	mutated_4_4
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_5.fasta	97.63	100.00	100.00	origin_4	mutated_4_5
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_6.fasta	97.10	100.00	100.00	origin_4	mutated_4_6
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_7.fasta	96.20	100.00	100.00	origin_4	mutated_4_7
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_8.fasta	95.65	100.00	100.00	origin_4	mutated_4_8
+/home/lorenzo/bucio_de_culo/origin_4.fasta	/home/lorenzo/bucio_de_culo/mutated_4_9.fasta	94.59	100.00	100.00	origin_4	mutated_4_9

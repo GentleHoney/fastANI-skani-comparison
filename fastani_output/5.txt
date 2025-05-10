@@ -1,0 +1,15 @@
+/home/lorenzo/bucio_de_culo/mutated_5_0.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	99.8679	6	6
+/home/lorenzo/bucio_de_culo/mutated_5_1.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	99.6851	6	6
+/home/lorenzo/bucio_de_culo/mutated_5_2.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	99.3279	6	6
+/home/lorenzo/bucio_de_culo/mutated_5_3.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	98.8763	6	6
+/home/lorenzo/bucio_de_culo/mutated_5_4.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	98.2976	6	6
+/home/lorenzo/bucio_de_culo/mutated_5_5.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	97.5272	5	6
+/home/lorenzo/bucio_de_culo/mutated_5_6.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	96.8649	5	6
+/home/lorenzo/bucio_de_culo/mutated_5_7.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	95.9556	5	6
+/home/lorenzo/bucio_de_culo/mutated_5_8.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	94.9863	5	6
+/home/lorenzo/bucio_de_culo/mutated_5_9.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	94.101	5	6
+/home/lorenzo/bucio_de_culo/mutated_5_10.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	91.8267	5	6
+/home/lorenzo/bucio_de_culo/mutated_5_11.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	88.7953	4	6
+/home/lorenzo/bucio_de_culo/mutated_5_12.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	85.2298	5	6
+/home/lorenzo/bucio_de_culo/mutated_5_13.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	82.3411	4	6
+/home/lorenzo/bucio_de_culo/mutated_5_14.fasta	/home/lorenzo/bucio_de_culo/origin_5.fasta	76.8399	3	6

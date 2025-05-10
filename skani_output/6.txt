@@ -1,0 +1,15 @@
+Ref_file	Query_file	ANI	Align_fraction_ref	Align_fraction_query	Ref_name	Query_name
+/home/lorenzo/bucio_de_culo/origin_6.fasta	/home/lorenzo/bucio_de_culo/mutated_6_0.fasta	99.88	100.00	100.00	origin_6	mutated_6_0
+/home/lorenzo/bucio_de_culo/origin_6.fasta	/home/lorenzo/bucio_de_culo/mutated_6_1.fasta	99.67	100.00	100.00	origin_6	mutated_6_1
+/home/lorenzo/bucio_de_culo/origin_6.fasta	/home/lorenzo/bucio_de_culo/mutated_6_10.fasta	92.97	97.58	97.58	origin_6	mutated_6_10
+/home/lorenzo/bucio_de_culo/origin_6.fasta	/home/lorenzo/bucio_de_culo/mutated_6_11.fasta	89.56	88.26	88.26	origin_6	mutated_6_11
+/home/lorenzo/bucio_de_culo/origin_6.fasta	/home/lorenzo/bucio_de_culo/mutated_6_12.fasta	87.10	78.36	78.36	origin_6	mutated_6_12
+/home/lorenzo/bucio_de_culo/origin_6.fasta	/home/lorenzo/bucio_de_culo/mutated_6_13.fasta	80.85	26.98	26.98	origin_6	mutated_6_13
+/home/lorenzo/bucio_de_culo/origin_6.fasta	/home/lorenzo/bucio_de_culo/mutated_6_2.fasta	99.47	100.00	100.00	origin_6	mutated_6_2
+/home/lorenzo/bucio_de_culo/origin_6.fasta	/home/lorenzo/bucio_de_culo/mutated_6_3.fasta	98.95	100.00	100.00	origin_6	mutated_6_3
+/home/lorenzo/bucio_de_culo/origin_6.fasta	/home/lorenzo/bucio_de_culo/mutated_6_4.fasta	98.23	99.71	99.71	origin_6	mutated_6_4
+/home/lorenzo/bucio_de_culo/origin_6.fasta	/home/lorenzo/bucio_de_culo/mutated_6_5.fasta	97.72	99.71	99.71	origin_6	mutated_6_5
+/home/lorenzo/bucio_de_culo/origin_6.fasta	/home/lorenzo/bucio_de_culo/mutated_6_6.fasta	97.13	98.67	98.67	origin_6	mutated_6_6
+/home/lorenzo/bucio_de_culo/origin_6.fasta	/home/lorenzo/bucio_de_culo/mutated_6_7.fasta	96.29	98.67	98.67	origin_6	mutated_6_7
+/home/lorenzo/bucio_de_culo/origin_6.fasta	/home/lorenzo/bucio_de_culo/mutated_6_8.fasta	95.30	98.67	98.67	origin_6	mutated_6_8
+/home/lorenzo/bucio_de_culo/origin_6.fasta	/home/lorenzo/bucio_de_culo/mutated_6_9.fasta	94.46	98.67	98.67	origin_6	mutated_6_9
