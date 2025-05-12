@@ -1,3 +1,2 @@
-for i in $(seq 0 9); do
-    skani dist -r "/home/lorenzo/bucio_de_culo/origin_${i}.fasta" --ql "/home/lorenzo/bucio_de_culo/genome_paths/mutations_${i}.txt" -o "/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/skani_output/${i}.txt" > /dev/null 2>&1
-done
+skani dist -r "/home/lorenzo/Documents/tesi_2/skani-time-depency/reference_0.fasta" --ql "/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/skani-time-depency/skani_genome_paths/paths_100.txt" -o "/home/lorenzo/Documents/tesi_2/fastANI-time-depency/times_output/skanitime.txt" > /dev/null 2>&1
+
