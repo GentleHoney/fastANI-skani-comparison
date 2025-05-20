@@ -1,0 +1,15 @@
+Ref_file	Query_file	ANI	Align_fraction_ref	Align_fraction_query	Ref_name	Query_name
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_7_0.fasta	99.92	100.00	100.00	origin_7	mutated_7_0
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_7_1.fasta	99.72	100.00	100.00	origin_7	mutated_7_1
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_7_10.fasta	92.97	97.49	97.49	origin_7	mutated_7_10
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_7_11.fasta	90.47	91.65	91.67	origin_7	mutated_7_11
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_7_12.fasta	86.69	65.85	65.85	origin_7	mutated_7_12
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_7_13.fasta	82.38	21.64	21.63	origin_7	mutated_7_13
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_7_2.fasta	99.39	99.97	99.97	origin_7	mutated_7_2
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_7_3.fasta	98.97	99.90	99.90	origin_7	mutated_7_3
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_7_4.fasta	98.47	99.76	99.77	origin_7	mutated_7_4
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_7_5.fasta	97.96	99.57	99.57	origin_7	mutated_7_5
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_7_6.fasta	97.28	99.44	99.44	origin_7	mutated_7_6
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_7_7.fasta	96.33	99.10	99.10	origin_7	mutated_7_7
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_7_8.fasta	95.32	98.83	98.83	origin_7	mutated_7_8
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_7_9.fasta	94.50	98.32	98.32	origin_7	mutated_7_9

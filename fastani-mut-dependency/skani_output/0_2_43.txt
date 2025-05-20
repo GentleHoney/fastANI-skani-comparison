@@ -1,0 +1,2 @@
+Ref_file	Query_file	ANI	Align_fraction_ref	Align_fraction_query	Ref_name	Query_name
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/fastani-mut-dependency/reference_0.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/fastani-mut-dependency/query_0_2_43.fasta	99.80	99.65	99.65	reference_0	query_0_2_43_0.003

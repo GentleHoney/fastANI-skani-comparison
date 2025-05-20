@@ -1,0 +1,10 @@
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/SNP_psrandom/origin_0.fasta
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/SNP_psrandom/origin_1.fasta
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/SNP_psrandom/origin_2.fasta
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/SNP_psrandom/origin_3.fasta
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/SNP_psrandom/origin_4.fasta
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/SNP_psrandom/origin_5.fasta
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/SNP_psrandom/origin_6.fasta
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/SNP_psrandom/origin_7.fasta
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/SNP_psrandom/origin_8.fasta
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/SNP_psrandom/origin_9.fasta

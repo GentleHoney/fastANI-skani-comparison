@@ -1,0 +1,16 @@
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_0.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	99.8767	974	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_1.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	99.6524	974	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_2.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	99.3119	974	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_3.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	98.8766	974	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_4.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	98.3548	974	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_5.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	97.7392	972	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_6.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	97.0513	974	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_7.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	96.2682	973	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_8.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	95.39	970	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_9.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	94.4416	970	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_10.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	92.5214	966	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_11.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	89.6666	957	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_12.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	85.8701	943	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_13.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	81.3339	890	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_14.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	77.7425	597	974
+/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/mutated_5_15.fasta	/home/lorenzo/Documents/tesi_2/fastANI-skani-comparison/INDEL_random/origin_5.fasta	75.8317	207	975
