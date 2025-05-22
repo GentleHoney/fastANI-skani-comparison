@@ -4,15 +4,14 @@ IPythonversion==8.12.3
 
 condaenvironment==base
 
-watermark==2.5.0
-matplotlib==3.8.0
-pandas==2.1.4
-pyorthoani==0.7.0
 scipy==1.11.4
-sklearn==1.2.2
+matplotlib==3.8.0
+watermark==2.5.0
+pandas==2.1.4
+plotly==6.0.1
+kaleido==0.2.1
 Bio==1.84
 numpy==1.26.4
 seaborn==0.12.2
-plotly==6.0.1
-kaleido==0.2.1
+pyorthoani==0.7.0
 
